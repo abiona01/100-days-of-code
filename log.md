@@ -7,6 +7,15 @@
 
 **Link to work:** [Link to tweet](https://twitter.com/i_am_whemzy/status/1303027822324318208?s=20)
 
+### Day 2: September 8, 2020
+
+**Today's Progress**: Learning Basic JavaScript on freecodecamp.
+                      Checked my knowledge of HTML and CSS on W3school
+**Thoughts:** Js is being a tough bastard, but it can't talk, so it can't beat me.
+Impressed by my test score on W3school
+
+**Link to work:** [Link to tweet](https://twitter.com/i_am_whemzy/status/1303286072177242113?s=20
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
