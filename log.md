@@ -16,6 +16,13 @@ Impressed by my test score on W3school
 
 **Link to work:** [Link to tweet](https://twitter.com/i_am_whemzy/status/1303286072177242113?s=20
 
+### Day 3: September 9, 2020
+
+**Today's Progress**: Continued learning Javascript.
+**Thoughts:** Unlike the last two days, i have no complaints.
+
+**Link to work:** [Link to tweet](https://twitter.com/i_am_whemzy/status/1303768197166960646?s=20
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
