@@ -29,7 +29,8 @@ Impressed by my test score on W3school
 **Thoughts:** Unlike the last two days, i have no complaints.
 
 **Link to work:** [Link to tweet](https://twitter.com/i_am_whemzy/status/1304115716770148355?s=20)
-
+### Day i-can't-remember.
+Progress so far: I've finished the responsive web design course and the javascript and data structures course on freecodecamp. Gotten certificates for both. Ok, bye
 
 
 <!--### Day 0: February 30, 2016 (Example 2)
